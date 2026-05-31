@@ -96,8 +96,9 @@ source .venv/bin/activate
 
 **Using uv (faster):**
 ```bash
-uv venv .venv
-uv venv activate
+uv init
+uv add venv
+.venv\Scripts\activate
 ```
 
 ### Step 3: Install Dependencies
