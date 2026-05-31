@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+
+google-adk
+google-genai
+
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+openpyxl
+pypdf
+
+python-dotenv
